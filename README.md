@@ -1,5 +1,5 @@
 # Shortest Quines
-Quines (self-reproducing code) has a long history. According to Wikiepedia, A quine is a non-empty computer program which takes no input and produces a copy of its own source code as its only output. Here, we challenge you write a shortest quine  in your prefered language. 
+Quines (self-reproducing code) has a long history. According to Wikiepedia, A quine is a non-empty computer program which takes no input and produces a copy of its own source code as its only output. **Here, we challenge you to write the shortest quine in your prefered language.** 
 
 # Rankings
 
